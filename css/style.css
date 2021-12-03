@@ -1,0 +1,23 @@
+@import 'components/Baniere.css';
+@import 'components/menu.css';
+@import 'components/photo_model.css';
+@import 'components/text.css';
+@import 'components/Titre.css';
+@import 'components/Footer.css';
+@import 'components/Carousel.css';
+
+body{
+	font-family: 'Dosis', sans-serif;
+font-family: 'Roboto Mono', monospace;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+

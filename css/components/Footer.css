@@ -1,0 +1,11 @@
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: beige;
+    color: black;
+}
+
+.footer{
+	margin-top: 70px;
+}

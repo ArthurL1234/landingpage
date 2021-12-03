@@ -1,0 +1,50 @@
+.menu {
+	font-size: 20px;
+	background-color: #F7F6F2;
+	height: 50px;
+	display: flex;
+	padding-left: 40px;
+	border-style: solid;
+	border-color: #99A799;
+}
+
+.compte{
+	margin: 10px;
+}
+
+.compte:hover{
+	color: #99A799;
+}
+
+.panier{
+	margin: 10px;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.panier:hover{
+	color: #99A799;
+}
+
+.favoris{
+	margin: 10px;
+}
+
+.favoris:hover{
+	color: #99A799;
+}
+.search_bar{
+	margin-left: 600px;
+	margin-bottom: 100px;
+	box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: #99A799;
+}
+

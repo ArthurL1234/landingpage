@@ -1,0 +1,15 @@
+.carouselslide{ 
+	height: 100px;
+	width: 300px;
+	margin-left: 300px;
+	margin-bottom: 300px;
+	margin-top: 70px;
+}
+
+
+#form{
+	background-color: rgb(238, 214, 196);
+	font-size: 30px;
+	border-radius: 10px;
+
+}

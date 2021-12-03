@@ -1,0 +1,18 @@
+.baniere{
+	background-image: url('../../Image/bagues1.jpeg');
+	padding: 150px;
+	margin-left: 50px;
+	margin-right: 50px;
+	opacity: 90%;
+	
+	}
+	#btn{
+		background-color: lightgray;
+		padding: 12px 14px;
+		margin: 400px 400px;
+		border-radius: 10px;
+
+	}
+#Collection{
+	font-size: 33px;
+}

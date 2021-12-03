@@ -1,0 +1,19 @@
+.photo_model{
+
+	margin top: 80px auto;
+	padding: 30px;
+	background-color:rgba(238, 214, 196,0.3);
+	height: 600px;	
+	margin-bottom: 70px;
+}
+#cou:hover{
+	opacity: 60% ;
+}
+
+#anna:hover{
+	opacity: 60% ;
+}
+
+#main:hover{
+	opacity: 60% ;
+}
